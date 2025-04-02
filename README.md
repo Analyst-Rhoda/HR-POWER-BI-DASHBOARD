@@ -24,6 +24,7 @@
 ### -Offers insights into attrition and workforce distribution
 
 ### -Enables HR managers to make informed decisions
+
 ## Processes
 ### 1. Data Collection: Collected employee data, including age, gender, job role, education, business travel, job satisfaction, and attrition rates.
 
@@ -40,7 +41,17 @@
 ### -Doughnut charts
 
 ### 4. Analysis: Analyzed data to derive key insights on workforce distribution, attrition, and satisfaction.
+
+## Tools Used
+
+### -Power BI for Data Visualization
+
+### -DAX for Calculations
+
+### -Excel for Data Preparation
+
 ##  Insights
+
 ## -High Attrition: 230 employees (16% attrition rate), indicating potential dissatisfaction.
 
 ## -Job Satisfaction: Highest satisfaction in Life Sciences and Medical fields.
@@ -50,7 +61,9 @@
 ## -Gender Distribution: 60% of the workforce is male.
 
 ## -Age Distribution: Majority of employees are between 26-35 years.
+
 ## Recommendations
+
 ### -Introduce initiatives to boost job satisfaction.
 
 ### -Implement retention strategies for high-risk employees.
@@ -58,3 +71,12 @@
 ### -Upskill employees based on job roles and satisfaction levels.
 
 ### -Consider remote or hybrid work to increase satisfaction.
+
+## How to Use this dashboard
+
+### 1. Download the `.pbix` file from this repository.  
+### 2. Open in **Power BI Desktop**.
+### 3. Explore the interactive dashboard using filters.  
+
+
+
